@@ -90,6 +90,7 @@ with open("D:\\projets_perso\\adventOfCode_2023\\day5\\ex.txt") as fichier:
 		if last < lowest or lowest == -1:
 			lowest = last
 	print(lowest)
+	# pour l'exemple, doit être 35
 
 	
 	# with alive_bar(MAXIMUM) as bar: 
